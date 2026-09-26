@@ -1,2 +1,1 @@
-# cydia
-lgyz6767 jailbreak repo
+# lgyz6767 Cydia Repo\n\nJailbreak tweaks repo.\n\nAdd to Sileo/Cydia: https://lgyz6767.github.io/cydia/\n
