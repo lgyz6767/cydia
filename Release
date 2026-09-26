@@ -1,0 +1,21 @@
+Origin: lgyz6767 Repo
+Label: lgyz6767
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: lgyz6767 jailbreak repo — LiquidAssCustom, CCBackgroundAlpha, VolumePowerSnap
+Date: Sat, 26 Sep 2026 06:16:18 UTC
+Packages:
+  4eb6565eeaa908c9795daba8d97e3483 1827 Packages
+  af9022d5ce9d216579c6e89f45455276954e1caa 1827 Packages
+  f20fc037473a4ce29073343d2f9058f873bd77fb1a16f0a88738da5644429bce 1827 Packages
+Packages.gz:
+  b443603777c24ed0b4a00bb0e4baf132 1039 Packages.gz
+  a1974bf95bbcf8a4aae1d1e59053815c86441344 1039 Packages.gz
+  9b6e39fc76e248b13d7656bae3809a8407e59fb096d4f5f7895286090528e52a 1039 Packages.gz
+Packages.bz2:
+  677125f8780854a2b8329b87a224ffdb 1127 Packages.bz2
+  4eddb41cc276f987c7e5c0b41e40595d96bcfea4 1127 Packages.bz2
+  771e832692b8ba955714c4cf8ce50ee2a3efaa73965eeaf38508086d7215bd9b 1127 Packages.bz2
