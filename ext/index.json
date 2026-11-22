@@ -3,6 +3,17 @@
   "updated": "2026-11-22",
   "extensions": [
     {
+      "id": "com.lgyz.mtext.codeserver",
+      "name": "VS Code（code-server）",
+      "version": "1.0.0",
+      "author": "lgyz",
+      "description": "在设备上直接跑 code-server，WKWebView 打开真正的 VS Code 网页版（Open VSX 可装纯 JS 插件）。仅 deb（rootless）版可用；终端等依赖原生模块的功能不可用。",
+      "category": "工具",
+      "icon": "chevron.left.forwardslash.chevron.right",
+      "size": 78219523,
+      "download": "ext/com.lgyz.mtext.codeserver/MTFile-CodeServer-Extension.zip"
+    },
+    {
       "id": "com.lgyz.mt.ext.demo",
       "name": "扩展能力演示",
       "version": "1.0.3",
