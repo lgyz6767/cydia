@@ -1,30 +1,6 @@
 {
   "name": "MTFile 扩展市场",
-  "updated": "2026-11-22",
   "extensions": [
-    {
-      "id": "com.lgyz.mtext.codeserver",
-      "name": "VS Code（code-server）",
-      "version": "1.0.0",
-      "author": "lgyz",
-      "description": "在设备上直接跑 code-server，WKWebView 打开真正的 VS Code 网页版（Open VSX 可装纯 JS 插件）。仅 deb（rootless）版可用；终端等依赖原生模块的功能不可用。",
-      "category": "工具",
-      "icon": "chevron.left.forwardslash.chevron.right",
-      "size": 78219523,
-      "download": "ext/com.lgyz.mtext.codeserver/MTFile-CodeServer-Extension.zip"
-    },
-    {
-      "id": "com.lgyz.mt.ext.demo",
-      "name": "扩展能力演示",
-      "version": "1.0.3",
-      "author": "lgyz",
-      "description": "演示扩展框架当前能做到的上限：侧栏分类、四页自绘 UI、宿主主题/波纹/弹窗/HUD、接管 Markdown 编辑器、自带 zip 解析器。",
-      "category": "开发",
-      "icon": "sparkles",
-      "size": 34593,
-      "download": "ext/com.lgyz.mt.ext.demo/MTDemoExt.zip",
-      "md5": "98e6ad10e53da396c55c1cf12bfaacc5"
-    },
     {
       "id": "com.lgyz.mtext.game2048",
       "name": "2048 小游戏",
@@ -34,8 +10,32 @@
       "category": "游戏",
       "icon": "square.grid.3x3.fill",
       "size": 15125,
-      "download": "ext/com.lgyz.mtext.game2048/MT2048Ext.zip",
-      "md5": "3f2e2b1bf58650701defd36a1db8fd2f"
+      "sha256": "7361b3ae2550ffde01f9940870c169f76e9ad40e18cc5c90dd42e740fc2d6e00",
+      "download": "ext/com.lgyz.mtext.game2048/MT2048Ext.zip"
+    },
+    {
+      "id": "com.lgyz.mtext.codeserver",
+      "name": "VS Code（Code Server）",
+      "version": "1.0.0",
+      "author": "lgyz",
+      "description": "在 MTFile 里原生跑 code-server：真 VS Code 服务端 + Open VSX 插件，浏览器内核为 WKWebView。需 deb 版宿主（沙盒版无法创建子进程）。",
+      "category": "工具",
+      "icon": "chevron.left.forwardslash.chevron.right",
+      "size": 57272092,
+      "sha256": "6d453cebf06ed79ba114512330e7495d2916b4ddf00d5365daa5e2ba052706c3",
+      "download": "ext/com.lgyz.mtext.codeserver/MTFile-CodeServer-Extension.zip"
+    },
+    {
+      "id": "com.lgyz.mt.ext.demo",
+      "name": "扩展能力演示",
+      "version": "1.0.3",
+      "author": "lgyz",
+      "description": "一个不依赖任何外部工具的演示扩展：注入侧栏分类、四页自绘 UI、调用宿主主题/波纹/弹窗/HUD、接管 Markdown 编辑器，并自带 zip 解析器。用来展示 v2 扩展框架当前能做到的上限。",
+      "category": "扩展演示",
+      "icon": "sparkles",
+      "size": 34593,
+      "sha256": "058ac49556e85bb326b1cf23769912a20d9724d8e37133d26fcb9252a5752266",
+      "download": "ext/com.lgyz.mt.ext.demo/MTDemoExt.zip"
     }
   ]
 }
