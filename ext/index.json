@@ -16,13 +16,13 @@
     {
       "id": "com.lgyz.mtext.codeserver",
       "name": "VS Code（Code Server）",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "lgyz",
       "description": "在 MTFile 里原生跑 code-server：真 VS Code 服务端 + Open VSX 插件，浏览器内核为 WKWebView。需 deb 版宿主（沙盒版无法创建子进程）。",
       "category": "工具",
       "icon": "chevron.left.forwardslash.chevron.right",
-      "size": 57272092,
-      "sha256": "6d453cebf06ed79ba114512330e7495d2916b4ddf00d5365daa5e2ba052706c3",
+      "size": 57272097,
+      "sha256": "1ee6b876c6727d6de2e26a442f598c6263fca08cbe33de5ccfb88ff12667abdc",
       "download": "ext/com.lgyz.mtext.codeserver/MTFile-CodeServer-Extension.zip"
     },
     {
