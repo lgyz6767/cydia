@@ -1,0 +1,30 @@
+{
+  "name": "MTFile 扩展市场",
+  "updated": "2026-11-22",
+  "extensions": [
+    {
+      "id": "com.lgyz.mt.ext.demo",
+      "name": "扩展能力演示",
+      "version": "1.0.3",
+      "author": "lgyz",
+      "description": "演示扩展框架当前能做到的上限：侧栏分类、四页自绘 UI、宿主主题/波纹/弹窗/HUD、接管 Markdown 编辑器、自带 zip 解析器。",
+      "category": "开发",
+      "icon": "sparkles",
+      "size": 34593,
+      "download": "ext/com.lgyz.mt.ext.demo/MTDemoExt.zip",
+      "md5": "98e6ad10e53da396c55c1cf12bfaacc5"
+    },
+    {
+      "id": "com.lgyz.mtext.game2048",
+      "name": "2048 小游戏",
+      "version": "1.0.0",
+      "author": "lgyz",
+      "description": "棋盘滑一滑，合并到 2048。附源码，可当扩展开发的完整示例。",
+      "category": "游戏",
+      "icon": "square.grid.3x3.fill",
+      "size": 15125,
+      "download": "ext/com.lgyz.mtext.game2048/MT2048Ext.zip",
+      "md5": "3f2e2b1bf58650701defd36a1db8fd2f"
+    }
+  ]
+}
