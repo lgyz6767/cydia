@@ -26,6 +26,18 @@
       "download": "ext/com.lgyz.mtext.codeserver/MTFile-CodeServer-Extension.zip"
     },
     {
+      "id": "com.lgyz.pyblocks",
+      "name": "图形Python",
+      "version": "1.0.4",
+      "author": "lgyz6767",
+      "description": "Scratch式积木编辑器，实时生成并导出Python代码",
+      "category": "图形编程",
+      "icon": "square.grid.2x2",
+      "size": 111592,
+      "sha256": "7fa93f1565a0ff51154c637b78a0c9aa184d18db3dd283891e788b8091499434",
+      "download": "ext/com.lgyz.pyblocks/PyBlocks.zip"
+    },
+    {
       "id": "com.lgyz.mt.ext.demo",
       "name": "扩展能力演示",
       "version": "1.0.3",
